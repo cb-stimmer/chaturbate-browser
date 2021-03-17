@@ -1,6 +1,6 @@
 {
-  "name": "@paulallen87/chaturbate-browser",
-  "version": "1.2.1",
+  "name": "@cb-stimmer/chaturbate-browser",
+  "version": "1.2.2",
   "description": "Headless browser for interacting with Chaturbate's websocket",
   "main": "index.js",
   "engines": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paulallen87/chaturbate-browser.git"
+    "url": "git+https://github.com/cb-stimmer/chaturbate-browser.git"
   },
   "keywords": [
     "chaturbate"
@@ -22,9 +22,9 @@
   "author": "“Paul Allen <“paul.allen.87.555@gmail.com”>",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/paulallen87/chaturbate-browser/issues"
+    "url": "https://github.com/cb-stimmer/chaturbate-browser/issues"
   },
-  "homepage": "https://github.com/paulallen87/chaturbate-browser#readme",
+  "homepage": "https://github.com/cb-stimmer/chaturbate-browser#readme",
   "devDependencies": {
     "chai": "^4.0.2",
     "coveralls": "^3.0.2",
@@ -36,7 +36,7 @@
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "chrome-launcher": "^0.10.5",
+    "chrome-launcher": "^0.13.4",
     "chrome-remote-interface": "^0.26.1",
     "debug": "^4.1.0"
   }
